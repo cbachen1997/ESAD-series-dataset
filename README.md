@@ -26,10 +26,9 @@ To do:
 - [x] Initial Image Classification Dataset -> ESAD
 - [x] Updated ESAD -> ESADv2
 - [x] Raw data augmentation -> MESA
-- [ ] 
-
+      
 # Access Protocol
-To obtain the MESA dataset, please fill out the following questionnaire ([URL](https://www.wjx.cn/vm/mlblkxz.aspx#). 
+To obtain the MESA dataset, please fill out the following questionnaire ([URL](https://www.wjx.cn/vm/mlblkxz.aspx#)). 
 
 The author will send a downloading link to your email as soon as possible.
 
