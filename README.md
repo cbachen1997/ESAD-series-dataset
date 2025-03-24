@@ -7,8 +7,7 @@ The newest version is **MESA** dataset publicized on IGARSS 2025.
 A Benchmark Dataset for Multi-class Earth's Surface Anomaly Detection in VHR Images
 - More than 20,000 very high resolution (VHR) image-level annotated remote sensing images (PNG format)
 - 12 major signicant Earth's surface anomalies
-- 
-
+- Spatial Resolution is range from 0.2m - 1m
 
 To do:
 - [x] Initial Image Classification Dataset -> ESAD
@@ -19,6 +18,8 @@ To do:
 **Maintained by**: AI Research Lab  
 **License**: [CC BY-NC-SA 4.0]([https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en))
 
+
+## Acknowledgement
 
 ---
 **Note:**
