@@ -14,7 +14,7 @@ A Benchmark Dataset for Multi-class Earth's Surface Anomaly Detection in VHR Ima
 **Maintained by**: AI Research Lab  
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en))
 
-# Dataset structure
+## Dataset structure
 ```python
 MESA/
 ├── train/
@@ -27,14 +27,14 @@ To do:
 - [x] Updated ESAD -> ESADv2
 - [x] Raw data augmentation -> MESA
       
-# Access Protocol
+## Access Protocol
 To obtain the MESA dataset, please fill out the following questionnaire ([URL](https://www.wjx.cn/vm/mlblkxz.aspx#)). 
 
 The author will send a downloading link to your email as soon as possible.
 
 Please note that this questionnaire is not intended to collect personal privacy information but to understand which fields are interested in this research topic, which may facilitate further collaboration.
 
-# Citation
+## Citation
 If this dataset proves valuable to your work and is utilized in your research, you can cite it using the following format:
 ```latex
 @dataset{author_year_title,
@@ -48,7 +48,7 @@ If this dataset proves valuable to your work and is utilized in your research, y
 ```
 
 ---
-**Note:**
+*Note:
 Please note that the current dataset and associated papers are under review for publication. The data will be organized and released once the papers are published.
 
 
