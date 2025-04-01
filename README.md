@@ -10,8 +10,6 @@ A Benchmark Dataset for Multi-class Earth's Surface Anomaly Detection in VHR Ima
 - 12 major significant Earth's surface anomalies
 - Spatial Resolution is range from 0.2m - 1m
 
-**Release Date**: 2025-03-24  
-**Maintained by**: AI Research Lab  
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en))
 
 ## Dataset structure
@@ -37,18 +35,17 @@ Please note that this questionnaire is not intended to collect personal privacy 
 ## Citation
 If this dataset proves valuable to your work and is utilized in your research, you can cite it using the following format:
 ```latex
-@dataset{author_year_title,
-  author       = {Author Name},
-  title        = {Dataset Title},
-  year         = {2023},
-  publisher    = {Publisher/Institution},
-  version      = {v1.0},
-  doi          = {xx.xxxx/xxxxxx}
-}
+@inproceedings{chen2025mesa,
+  title        = {MESA: A Benchmark Dataset for Multi-class Earth's Surface Anomaly Detection in VHR Images},
+  author       = {Boan Chen, Zhi Gao*, Wei Ao, Siqi Liu, Ziyao Li, Jinchang Ren, Qiao Wang},
+  booktitle={IGARSS 2025-2025 IEEE international geoscience and remote sensing symposium},
+  pages={TBD},
+  year={2025},
+  organization={IEEE}
 ```
 
 ---
 *Note:
-Please note that the current dataset and associated papers are under review for publication. The data will be organized and released once the papers are published.
+Please note that the current dataset and associated papers are under review for publication. The data will be released once the papers are published.
 
 
